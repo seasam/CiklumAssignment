@@ -2,3 +2,13 @@
 /target/
 /pom.xml
 /testng.xml
+
+.classpath
+.project
+.settings/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
