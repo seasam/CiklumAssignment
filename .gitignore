@@ -2,5 +2,18 @@
 /target/
 /pom.xml
 /testng.xml
+<<<<<<< HEAD
 /.classpath
 /.project
+=======
+
+.classpath
+.project
+.settings/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+>>>>>>> branch 'master' of https://github.com/seasam/CiklumAssignment.git
