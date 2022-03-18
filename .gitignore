@@ -1,0 +1,12 @@
+/test-output/
+/target/
+/pom.xml
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+.classpath
+.project
+.settings/
